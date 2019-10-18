@@ -21,6 +21,8 @@ before_install:
   # 安装 hugo （version: v0.54.0）
   - wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.deb
   - sudo dpkg -i hugo.deb
+  # 安装hugo主题
+  - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
 
 install:
 # 运行hugo命令
@@ -31,7 +33,6 @@ script:
   - git init
   - git config user.name "Neulana"
   - git config user.email "fupinyou@gmail.com"
-  - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages
