@@ -31,6 +31,7 @@ script:
   - git init
   - git config user.name "Neulana"
   - git config user.email "fupinyou@gmail.com"
+  - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages
