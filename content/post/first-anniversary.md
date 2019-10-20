@@ -5,7 +5,7 @@ draft: false
 tags: ["我和她",]
 categories: ["生活"]
 author: "Neulana"
-contentCopyright: '<a rel="license noopener" href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" target="_blank">Creative Commons Attribution-ShareAlike License</a>'
+contentCopyright: "禁止转载"
 ---
 
 致我最爱的小雅：
