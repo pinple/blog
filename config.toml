@@ -131,20 +131,25 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     warn = 180              # Display warning if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示警告
 
   [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-    owner = "Neulana"              # Your GitHub ID
-    repo = "neulana.github.io"               # The repo to store comments
-    clientId = "a6dc2bff67636779afb0"           # Your client ID
-    clientSecret = "8556d2cf4b9781af5e42e2f49d6ff15fbb1da4de"       # Your client secret
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
 
   [params.utterances]       # https://utteranc.es/
     owner = ""              # Your GitHub ID
     repo = ""               # The repo to store comments
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
-    clientId = ""           # Your client ID
-    clientSecret = ""       # Your client secret
+    owner = "Neulana"              # Your GitHub ID
+    repo = "neulana.github.io"               # The repo to store comments
+    clientId = "a6dc2bff67636779afb0"           # Your client ID
+    clientSecret = "8556d2cf4b9781af5e42e2f49d6ff15fbb1da4de"       # Your client secret
+    createIssueManually = false
+    pagerDirection = "last"
+    # labels= "gitalk"
+    admin = "Neulana"
+    perPage = 10
 
   # Valine.
   # You can get your appid and appkey from https://leancloud.cn
