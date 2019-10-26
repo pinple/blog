@@ -29,9 +29,7 @@ author: "Neulana"
 
 如果读这篇文章的你也想使用，可以fork这个仓库，然后在[Travis CI](https://travis-ci.org)配置一下，设置环境变量：你的邮箱地址和邮箱密码，设置构建周期为daily。
 
-```
 ![travis-setting.png](https://i.loli.net/2019/10/27/4YqUnGBXoZDi13u.png)
-```
 
 最后，嘱咐一句：股市有风险，投资需谨慎！
 
