@@ -23,6 +23,8 @@ before_install:
   - sudo dpkg -i hugo.deb
   # 安装hugo主题
   - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
+  # 克隆Github Pages仓库
+  git clone https://github.com/Neulana/neulana.github.io.git public/
 
 install:
 # 运行hugo命令
@@ -30,10 +32,10 @@ install:
 
 script:
   - cd ./public
-  - git init
   - git config user.name "Neulana"
   - git config user.email "fupinyou@gmail.com"
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages
-  - git push --force --quiet "https://$GITHUB_TOKEN@${GH_REF}" master:master
+  # - git push --force --quiet "https://$GITHUB_TOKEN@${GH_REF}" master:master
+  - git push
