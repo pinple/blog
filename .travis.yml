@@ -24,10 +24,10 @@ before_install:
   # 安装hugo主题
   - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
   # 克隆Github Pages仓库
-  git clone https://github.com/Neulana/neulana.github.io.git public/
+  git clone https://github.com/Neulana/neulana.github.io.git public
 
 install:
-# 运行hugo命令
+  # 运行hugo命令
   - hugo
 
 script:
@@ -39,3 +39,4 @@ script:
   # Github Pages
   # - git push --force --quiet "https://$GITHUB_TOKEN@${GH_REF}" master:master
   - git push
+
