@@ -1,7 +1,7 @@
 baseURL = "https://neulana.github.io"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "pingo"
+title = "奔跑的瓜牛"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -21,7 +21,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "Neulana"
+  name = "奔跑的瓜牛"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -29,22 +29,22 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "Home"
+  name = "主页"
   weight = 10
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Archives"
+  name = "归档"
   weight = 20
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
-  name = "Tags"
+  name = "标签"
   weight = 30
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "Categories"
+  name = "分类"
   weight = 40
   identifier = "categories"
   url = "/categories/"
@@ -59,7 +59,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = ""
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "pingo"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "奔跑的瓜牛"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Life"]
   description = "Thoughts, stories and ideas."
 
@@ -179,9 +179,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     pagePV = true
 
   [params.reward]                                         # 文章打赏
-    enable = false
-    wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
-    alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
+    enable = true
+    # wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
+    alipay = "/images/alipay-qr-code.jpeg"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
     a-email = "mailto:python-dev@qq.com"
