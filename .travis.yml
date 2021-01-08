@@ -10,9 +10,9 @@ env:
 
 # Specify which branches to build using a safelist
 # 分支白名单限制：只有 master 分支的提交才会触发构建
-# branches:
-#   only:
-#     - master
+branches:
+  only:
+    - master
 
 before_install:
   # 安装依赖
@@ -25,12 +25,16 @@ before_install:
   - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
   # 克隆Github Pages仓库
   - git clone https://github.com/Neulana/neulana.github.io.git public
+  # 保存打赏二维码
+  - mv public/img/reward/ tmp/img/reward/
 
 install:
   # 运行hugo命令
   - hugo
 
 script:
+  # 替换打赏二维码
+  - mv tmp/img/reward/ public/img/reward/
   - cd ./public
   - git config user.name "Neulana"
   - git config user.email "fupinyou@gmail.com"
