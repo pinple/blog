@@ -181,7 +181,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [params.reward]                                         # 文章打赏
     enable = true
     # wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
-    alipay = "/images/alipay-qr-code.jpeg"           # 支付宝二维码
+    alipay = "/img/reward/alipay.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
     a-email = "mailto:python-dev@qq.com"
