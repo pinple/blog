@@ -25,16 +25,17 @@ before_install:
   - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
   # 克隆Github Pages仓库
   - git clone https://github.com/Neulana/neulana.github.io.git public
-  # 保存打赏二维码
-  - mv public/img/reward/ tmp/img/reward/
+  # 暂存
+  - mkdir -p tmp/
+  - cp -R public/* tmp/
 
 install:
   # 运行hugo命令
   - hugo
 
 script:
-  # 替换打赏二维码
-  - mv tmp/img/reward/ public/img/reward/
+  # 还原有用资源
+  - cp -R tmp/img/* public/img/
   - cd ./public
   - git config user.name "Neulana"
   - git config user.email "fupinyou@gmail.com"
