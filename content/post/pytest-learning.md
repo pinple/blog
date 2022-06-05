@@ -1,7 +1,7 @@
 ---
 title: "Pytest入门指南"
 date: 2021-03-06T18:32:37+08:00
-draft: false
+draft: true
 tags: ["单元测试",]
 categories: ["Python"]
 author: "Pinple"
