@@ -6,7 +6,7 @@ go:
 env:
  global:
    # Github Pages
-   - GH_REF: github.com/Neulana/neulana.github.io
+   - GH_REF: github.com/pinple/pinple.github.io
 
 # Specify which branches to build using a safelist
 # 分支白名单限制：只有 master 分支的提交才会触发构建
@@ -24,7 +24,7 @@ before_install:
   # 安装hugo主题
   - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
   # 克隆Github Pages仓库
-  - git clone https://github.com/Neulana/neulana.github.io.git public
+  - git clone https://github.com/pinple/pinple.github.io.git public
 
 install:
   # 运行hugo命令
