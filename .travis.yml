@@ -22,9 +22,9 @@ before_install:
   - wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_0.80.0_Linux-64bit.deb
   - sudo dpkg -i hugo.deb
   # 安装hugo主题
-  # - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
+  - git clone https://github.com/pinple/hugo-theme-even themes/even
   # 克隆Github Pages仓库
-  # - git clone https://github.com/pinple/pinple.github.io.git public
+  - git clone https://github.com/pinple/pinple.github.io.git public
 
 install:
   # 运行hugo命令
