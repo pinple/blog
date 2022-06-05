@@ -1,7 +1,7 @@
 ---
 title: "对过去和未来的一点思考"
 date: 2021-09-11T00:10:32+08:00
-draft: false
+draft: true
 tags: ["成长","职场"]
 categories: ["个人成长"]
 author: "Pinple"
