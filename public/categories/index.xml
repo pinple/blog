@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Pinple&#39;s Blog</title>
+    <link>https://pinple.github.io/categories/</link>
+    <description>Recent content in Categories on Pinple&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 26 Oct 2019 22:40:07 +0800</lastBuildDate><atom:link href="https://pinple.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生活</title>
+      <link>https://pinple.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sat, 26 Oct 2019 22:40:07 +0800</pubDate>
+      
+      <guid>https://pinple.github.io/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

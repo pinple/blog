@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://pinple.github.io/sitemap.xml
