@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Pinple&#39;s Blog</title>
+    <link>https://neulana.github.io/categories/python/</link>
+    <description>Recent content in Python on Pinple&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 06 Mar 2021 18:32:37 +0800</lastBuildDate><atom:link href="https://neulana.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pytest入门指南</title>
+      <link>https://neulana.github.io/post/pytest-learning/</link>
+      <pubDate>Sat, 06 Mar 2021 18:32:37 +0800</pubDate>
+      
+      <guid>https://neulana.github.io/post/pytest-learning/</guid>
+      <description>pytest的优点 详细的断言失败信息； 自动发现测试模块、函数；</description>
+    </item>
+    
+  </channel>
+</rss>
