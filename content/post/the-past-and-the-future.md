@@ -4,7 +4,7 @@ date: 2021-09-11T00:10:32+08:00
 draft: true
 tags: ["成长","职场"]
 categories: ["个人成长"]
-author: "Pinple"
+author: "pinple"
 contentCopyright: "禁止转载"
 ---
 

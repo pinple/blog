@@ -4,7 +4,7 @@ date: 2019-10-26T22:40:07+08:00
 draft: false
 tags: ["理财",]
 categories: ["生活"]
-author: "Pinple"
+author: "pinple"
 ---
 
 ## 大多数人是如何亏钱的？

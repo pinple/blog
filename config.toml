@@ -1,4 +1,4 @@
-baseURL = "https://pinple.github.io"
+baseURL = "https://pinple.me/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Pinple's Blog"
