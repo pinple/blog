@@ -34,8 +34,8 @@ script:
   # 还原有用资源
   - cp -R img/* public/img/
   - cd ./public
-  - git config user.name "Neulana"
-  - git config user.email "fupinyou@gmail.com"
+  - git config user.name "pinple"
+  - git config user.email "pinple.me@gmail.com"
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages

@@ -21,7 +21,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "Pinple"
+  name = "pinple"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -61,10 +61,10 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "Pinple's Blog"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Life"]
-  description = "到达胜利之前，无法回头！"
+  description = "大道至简"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
-  archivePaginate = 20
+  archivePaginate = 10
 
   # show 'xx Posts In Total' in archive page ?            # 是否在归档页显示文章的总数
   showArchiveCount = true
