@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://pinple.github.io/sitemap.xml
+Sitemap: https://upin.club/sitemap.xml

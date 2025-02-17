@@ -2,36 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生活 on Pinple&#39;s Blog</title>
-    <link>https://pinple.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
+    <link>https://pinple.me/categories/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on Pinple&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 26 Oct 2019 22:40:07 +0800</lastBuildDate><atom:link href="https://pinple.github.io/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Oct 2019 22:40:07 +0800</lastBuildDate><atom:link href="https://pinple.me/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何在理财中胜出</title>
-      <link>https://pinple.github.io/post/rational-investment/</link>
+      <link>https://pinple.me/post/rational-investment/</link>
       <pubDate>Sat, 26 Oct 2019 22:40:07 +0800</pubDate>
       
-      <guid>https://pinple.github.io/post/rational-investment/</guid>
+      <guid>https://pinple.me/post/rational-investment/</guid>
       <description>大多数人是如何亏钱的？ 最近看了几本关于理财的书——《小狗钱钱》《周期》《财务自由之路》、《富爸爸穷爸爸》，结合这一年短暂的理财经验，总结出一</description>
-    </item>
-    
-    <item>
-      <title>甜蜜的一年</title>
-      <link>https://pinple.github.io/post/first-anniversary/</link>
-      <pubDate>Sat, 23 Mar 2019 10:06:09 +0800</pubDate>
-      
-      <guid>https://pinple.github.io/post/first-anniversary/</guid>
-      <description>致我最爱的小雅： 2018年03月11日，我们正式在一起了。时间过得真快，一眨眼的工夫我们已经在一起一年了，再回首像是发生在昨天一样。我永远记</description>
-    </item>
-    
-    <item>
-      <title>小雅写给我的第一封信</title>
-      <link>https://pinple.github.io/post/her-letter-one/</link>
-      <pubDate>Sun, 17 Mar 2019 11:14:05 +0800</pubDate>
-      
-      <guid>https://pinple.github.io/post/her-letter-one/</guid>
-      <description>女友写给我的信，做下备份。 致我的男友： ​ 三月的桂林成日小雨淅淅沥沥，天也总是灰蒙蒙的。清晨八点，坐在从学校通往市区的公交车上，回忆我们的往昔</description>
     </item>
     
   </channel>

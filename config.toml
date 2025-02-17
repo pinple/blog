@@ -1,7 +1,7 @@
-baseURL = "https://pinple.me/"
+baseURL = "https://upin.club/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Pinple's Blog"
+title = "pinple的博客"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 5                                              # 首页每页显示的文章数
+pagination.pagerSize = 10                                              # 首页每页显示的文章数
 # disqusShortname = "neulana"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
@@ -59,9 +59,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = "https://github.com/pinple/blog"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Pinple's Blog"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "pinple的博客"                                 # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Life"]
-  description = "大道至简"
+  description = "记录生活、编程、理财"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 10
@@ -180,8 +180,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   [params.reward]                                         # 文章打赏
     enable = true
-    # wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
-    alipay = "/img/alipay.png"           # 支付宝二维码
+    # wechat = "/path/to/your/wechat-qr-code.png"         # 微信二维码
+    alipay = "/img/alipay.png"                            # 支付宝二维码
 
   [params.social]                                         # 社交链接
     a-email = "mailto:pinple.me@qq.com"
