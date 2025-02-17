@@ -179,7 +179,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     pagePV = true
 
   [params.reward]                                         # 文章打赏
-    enable = true
+    enable = false
     # wechat = "/path/to/your/wechat-qr-code.png"         # 微信二维码
     alipay = "/img/alipay.png"                            # 支付宝二维码
 
