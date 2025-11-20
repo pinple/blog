@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pinple的博客</title>
-    <link>https://upin.club/</link>
+    <link>https://blog.upin.club/</link>
     <description>Recent content on pinple的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 18 Feb 2025 00:20:09 +0800</lastBuildDate>
-    <atom:link href="https://upin.club/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.upin.club/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于</title>
-      <link>https://upin.club/about/</link>
+      <link>https://blog.upin.club/about/</link>
       <pubDate>Fri, 08 Jan 2021 23:54:44 +0800</pubDate>
-      <guid>https://upin.club/about/</guid>
+      <guid>https://blog.upin.club/about/</guid>
       <description>&lt;p&gt;坚信长期主义，做时间的朋友。&lt;/p&gt;</description>
     </item>
     <item>
       <title>如何在理财中胜出</title>
-      <link>https://upin.club/post/rational-investment/</link>
+      <link>https://blog.upin.club/post/rational-investment/</link>
       <pubDate>Sat, 26 Oct 2019 22:40:07 +0800</pubDate>
-      <guid>https://upin.club/post/rational-investment/</guid>
+      <guid>https://blog.upin.club/post/rational-investment/</guid>
       <description>&lt;h2 id=&#34;大多数人是如何亏钱的&#34;&gt;大多数人是如何亏钱的？&lt;/h2&gt;&#xA;&lt;p&gt;最近看了几本关于理财的书——《小狗钱钱》《周期》《财务自由之路》、《富爸爸穷爸爸》，结合这一年短暂的理财经验，总结出一些自己的思考。&lt;/p&gt;&#xA;&lt;p&gt;相信很多人一开始买股票都是追涨杀跌，看着股票涨就想买，跌了就想赶紧出掉及时止损，如果你一直这么操作，我保证你会把本钱赔光，为什么？可以看一下回形针的这期视频&lt;a href=&#34;https://www.youtube.com/watch?v=_f0VoxypcCo&amp;amp;ab_channel=%E5%9B%9E%E5%BD%A2%E9%92%88PaperClip&#34;&gt;【回形针PaperClip】为什么你炒股总是亏钱？&lt;/a&gt;。大多数不具备专业知识背景的人都是通过看新闻买股票的，而等到放出新闻来的时候往往已经晚了，消息比我们灵通的资本早就进场等着割韭菜了。《周期》这本书指出，股票的收益在你买入那一刻就决定了，而非卖出的时候决定的。&lt;/p&gt;</description>
     </item>
   </channel>

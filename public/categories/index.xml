@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on pinple的博客</title>
-    <link>https://upin.club/categories/</link>
+    <link>https://blog.upin.club/categories/</link>
     <description>Recent content in Categories on pinple的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 18 Feb 2025 00:20:09 +0800</lastBuildDate>
-    <atom:link href="https://upin.club/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.upin.club/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>理财</title>
-      <link>https://upin.club/categories/%E7%90%86%E8%B4%A2/</link>
+      <link>https://blog.upin.club/categories/%E7%90%86%E8%B4%A2/</link>
       <pubDate>Sat, 26 Oct 2019 22:40:07 +0800</pubDate>
-      <guid>https://upin.club/categories/%E7%90%86%E8%B4%A2/</guid>
+      <guid>https://blog.upin.club/categories/%E7%90%86%E8%B4%A2/</guid>
       <description></description>
     </item>
   </channel>
